@@ -1,0 +1,9 @@
+hola, como estas? Soy tesista de la Maestria en Fisica y mi trabajo es en SPH, simulacion del flujo sanguineo
+pero antes de simular quiero calibrar el codigo por con el perfil de poiseuille de Morris y Sigalotti que se parece mucho.
+Entonces tengo una fuerte duda en la libreria de dualSPHysics denominada Case_Poiseuille: ¿ en que parte del archivo  declaro la velocidad inicial? 
+o esa velocidad se genera con parametros de manera indirecta?, muĉas gracias de antemano
+
+Hello, how are you? I am a thesis student of the Master in Physics and my work is in SPH, blood flow simulation.
+but before simulating I want to calibrate the code by Morris and Sigalotti's poiseuille profile which is very similar.
+Then I have a strong doubt in the dualSPHysics library named Case_Poiseuille: where in the file do I declare the initial velocity? 
+or that velocity is generated with parameters in an indirect way, thank you very much in advance.
